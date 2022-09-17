@@ -15,12 +15,13 @@
     "gun": "^0.2020.1238",
     "magic-sdk": "^9.0.0",
     "moralis-v1": "^1.11.0",
-    "react": "17.0.2",
     "react-chartjs-2": "^4.3.1",
-    "react-dom": "17.0.2",
     "react-moralis": "^1.4.2",
     "react-switch": "^7.0.0",
-    "web3uikit": "^1.0.4"
+    "web3uikit": "^1.0.4",
+    "next": "12.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.11",
