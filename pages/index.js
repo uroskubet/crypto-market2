@@ -1,3 +1,4 @@
+import CMCTable from "../components/cmcTable/CMCTable";
 import { Header } from "../components/Header";
 import Trending from "../components/Trending";
 export default function Home() {
@@ -9,7 +10,7 @@ export default function Home() {
       <Trending />
 
       <div className="20" />
-      {/* cmctable */}
+      <CMCTable />
     </div>
   );
 }
